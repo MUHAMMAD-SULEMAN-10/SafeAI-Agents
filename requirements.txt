@@ -1,0 +1,6 @@
+
+streamlit>=1.36
+numpy>=1.26
+torch>=2.2
+plotly>=5.22
+ 
