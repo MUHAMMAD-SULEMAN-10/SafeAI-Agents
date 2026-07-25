@@ -445,13 +445,6 @@ This project explores concepts at the intersection of:
 - Vision-Language Models
 - Autonomous Systems
 
----
-
-# License
-
-This project is released under the MIT License.
-
----
 
 # Acknowledgements
 
